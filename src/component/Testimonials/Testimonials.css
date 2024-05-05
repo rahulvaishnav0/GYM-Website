@@ -1,0 +1,27 @@
+/* .heading{
+    width: 500px;
+    text-align: start;
+} */
+.link{
+    width: 100%;
+    display: flex;
+}
+.link ul{
+    display: flex;
+    gap: 30px;
+    text-align: center;
+    justify-content: center;
+}
+.link ul li{
+    list-style-type: none;
+    gap: 30px;
+}
+.link i{
+    width: 30px;
+    height: 30px;
+    margin-top: 40px;
+}
+
+@media (max-width:900){
+   
+}
